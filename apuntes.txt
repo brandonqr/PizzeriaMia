@@ -1,0 +1,19 @@
+classe
+	constructor
+		sin conexion a la bd
+	executar(param)
+		con.execute()
+	nsilla()
+		--
+		--
+		--
+
+php
+conectar a la BD
+SQL
+executar
+
+php
+include
+a=new
+	$a=>executar()
