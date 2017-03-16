@@ -1,0 +1,30 @@
+/*Estilo para la cabecera*/
+.cabecera{
+	display: block;
+	text-align: center;
+}
+.cLogo{
+	width: 100px;
+	height: 100px;
+}
+.cTitulo{
+	font-size: 200px;
+
+}
+/*Estilos para el Carrito*/
+.carritoImagen{
+	width: 100px;
+	height: 100px;
+}
+.contadorCarrito{
+	font-size: 50px;
+	position: relative;
+	float: left;
+	left: 60px;
+}
+
+/*Estilo para mostrar productos de la cesta*/
+.imagenProductoCesta{
+	width: 100px;
+	height: 100px;
+}

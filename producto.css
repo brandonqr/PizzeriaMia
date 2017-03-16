@@ -1,0 +1,27 @@
+*{
+	display: inline-block;
+}
+.producto{
+	width: 200px;
+	height: 300px;
+	text-align: center;
+	border-right: solid #ff0000;
+	border-bottom: solid #ff0000;
+
+}
+.pNombre{
+}
+.pImagen{
+	width: 100%;
+	height: 200px;
+}
+.pPrecio{
+	margin-top: 10px;
+	display: block
+
+}
+
+.imagenProductoCesta{
+		width: 100%;
+	height: 200px;
+}
